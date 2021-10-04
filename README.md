@@ -4,8 +4,8 @@
 
 ## \<Usage>
 
-<how to use>
+\<how to use>
 
 ## \<Installation>
 
-<how to install>
+\<how to install>
