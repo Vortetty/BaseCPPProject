@@ -1,4 +1,4 @@
-# \<title>
+# \<project title>
 
 \<description>
 
@@ -9,3 +9,6 @@
 ## \<Installation>
 
 \<how to install>
+
+
+Template licensed under mit
