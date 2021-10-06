@@ -9,6 +9,3 @@
 ## \<Installation>
 
 \<how to install>
-
-
-Template licensed under mit
